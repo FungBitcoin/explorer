@@ -14,9 +14,7 @@ Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/et
 
 ##Donations
 
-ETH Address: 0xee298ae561bD7BE6e1040AFf281202E0b0646BA6
-
-BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
+BTC Address: 1M7e8bjNvTa8JS99fn76h3sqXVCYpXSaAy
 
 ##Installation
 
